@@ -41,16 +41,25 @@
 "Yesterday" = "Gestern";
 
 /* No comment provided by engineer. */
-"1 year ago" = "Vor 1 Jahr";
+"1 year ago" = "Vor einem Jahr";
 
 /* No comment provided by engineer. */
-"1 month ago" = "Vor 1 Monat";
+"1 month ago" = "Vor einem Monat";
 
 /* No comment provided by engineer. */
-"1 week ago" = "Vor 1 Woche";
+"1 week ago" = "Vor einer Woche";
 
 /* No comment provided by engineer. */
-"1 day ago" = "Vor 1 Tag";
+"1 day ago" = "Vor einem Tag";
+
+/* No comment provided by engineer. */
+"1 hour ago" = "Vor einer Stunde";
+
+/* No comment provided by engineer. */
+"1 minute ago" = "Vor einer Minute";
+
+/* No comment provided by engineer. */
+"1 second ago" = "Vor einer Sekunde";
 
 /* No comment provided by engineer. */
 "This morning" = "Heute Morgen";
